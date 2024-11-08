@@ -1,22 +1,22 @@
-C:\Users\NARASIMHA\Desktop\java projects\calculator>java Calculator
+
 Enter the first number: 44
 Enter the second number: 55
 Enter an operator to perform operation(+, -, *, /): +
 Addition of44.0 + 55.0 = 99.0
 
-C:\Users\NARASIMHA\Desktop\java projects\calculator>java Calculator
+
 Enter the first number: 55
 Enter the second number: 66
 Enter an operator to perform operation(+, -, *, /): -
 Subtraction of55.0 - 66.0 = -11.0
 
-C:\Users\NARASIMHA\Desktop\java projects\calculator>java Calculator
+
 Enter the first number: 77
 Enter the second number: 88
 Enter an operator to perform operation(+, -, *, /): *
 Multiplication of77.0 * 88.0 = 6776.0
 
-C:\Users\NARASIMHA\Desktop\java projects\calculator>java Calculator
+
 Enter the first number: 55
 Enter the second number: 22
 Enter an operator to perform operation(+, -, *, /): /
