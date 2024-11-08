@@ -1,0 +1,46 @@
+Welcome to Temperature Converter Program
+1.Celsius to Farenheit Converter 
+2.Farenheit to Celsius Converter 
+3.Exit
+Enter your input(1 - 3)
+1
+enter celsius value
+22
+value of temperature in fahrenheit:71.6
+Welcome to Temperature Converter Program
+1.Celsius to Farenheit Converter 
+2.Farenheit to Celsius Converter 
+3.Exit
+Enter your input(1 - 3)
+1
+enter celsius value
+-40
+value of temperature in fahrenheit:-40.0
+Welcome to Temperature Converter Program
+1.Celsius to Farenheit Converter 
+2.Farenheit to Celsius Converter 
+3.Exit
+Enter your input(1 - 3)
+2
+enter farenheit value
+-40
+value of temperature in celsius:-40.0
+Welcome to Temperature Converter Program
+1.Celsius to Farenheit Converter 
+2.Farenheit to Celsius Converter 
+3.Exit
+Enter your input(1 - 3)
+3
+exiting out of code
+Welcome to Temperature Converter Program
+ 1.Celsius to Farenheit Converter 
+2.Farenheit to Celsius Converter 
+3.Exit
+Enter your input(1 - 3)
+8
+please enter the input value in range (1 - 3)
+Welcome to Temperature Converter Program
+1.Celsius to Farenheit Converter 
+2.Farenheit to Celsius Converter 
+3.Exit
+Enter your input(1 - 3)
