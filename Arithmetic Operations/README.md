@@ -1,5 +1,3 @@
-Code
-
 # Arithmetic Operations
 
 This is a simple Java program that is used to perform basic arithmetic operations.
@@ -11,16 +9,19 @@ This is a simple Java program that is used to perform basic arithmetic operation
    ```bash
    git clone https://github.com/narasimhareddy1491/java-projects/tree/main/Arithmetic%20Operations
 
-Compile the code.
+##Compile the code.
+	javac Calculator.java
 
-javac Calculator.java
+##Run the program.
+	java Calculator
 
-Run the program.
+##OUTPUT
+	Enter the first number: 44
+	Enter the second number: 55
+	Enter an operator to perform operation(+, -, *, /): +
+	Addition of44.0 + 55.0 = 99.0
 
-java Calculator
-
-output
-Enter the first number: 44
-Enter the second number: 55
-Enter an operator to perform operation(+, -, *, /): +
-Addition of44.0 + 55.0 = 99.0
+Contributing
+Feel free to contribute to this project by creating pull requests.
+License
+This project is licensed under the MIT License.
