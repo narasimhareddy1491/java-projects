@@ -9,13 +9,13 @@ This is a simple Java program that is used to perform basic arithmetic operation
    ```bash
    git clone https://github.com/narasimhareddy1491/java-projects/tree/main/Arithmetic%20Operations
 
-##Compile the code.
+## Compile the code.
 	javac Calculator.java
 
-##Run the program.
+## Run the program.
 	java Calculator
 
-##OUTPUT
+## OUTPUT
 	Enter the first number: 44
 	Enter the second number: 55
 	Enter an operator to perform operation(+, -, *, /): +
